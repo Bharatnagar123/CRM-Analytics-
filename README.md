@@ -29,7 +29,7 @@ This project involves a detailed analysis of CRM data to identify trends, patter
 
 ## Project Files
 
-- **Analysis in Excel**: [CRM Analysis.xlsx](./CRM%20Analysis.xlsx)
+- **Analysis in Excel**: [CRM Analysis.xlsx]CRM Analysis.pbix
 - **Power BI Report**: [CRM Analysis.pbix](./CRM%20Analysis.pbix)
 - **Tableau Dashboard**: [CRM Management-Tableau Dashboard.twbx](./CRM%20Management-Tableau%20Dashboard.twbx)
 
