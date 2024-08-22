@@ -29,17 +29,20 @@ This project involves a detailed analysis of CRM data to identify trends, patter
 
 ## Project Files
 
-- **Analysis in Excel**: [CRM Analysis.xlsx]CRM Analysis.pbix
 - **Power BI Report**: [CRM Analysis.pbix](./CRM%20Analysis.pbix)
-- **Tableau Dashboard**: [CRM Management-Tableau Dashboard.twbx](./CRM%20Management-Tableau%20Dashboard.twbx)
+- **Excel Data**: [Opportunity Table.xlsx](./Opportunity%20Table.xlsx)
+- **Tableau Dashboard - Opportunities**: [Salesforce CRM Opportunity Dashboard.twbx](./Salesforce%20CRM%20Opportunity%20Dashboard.twbx)
+- **Tableau Dashboard - Leads**: [Salesforce Lead Dashboard.twbx](./Salesforce%20Lead%20Dashboard.twbx)
+- **Presentation**: [CRM Analytics Presentation.pptx](./crm%20analytics%20presentation.pptx)
 
 ## Instructions
 
 1. **Download**: Clone or download the repository to your local machine.
 2. **Setup**:
-   - **Excel**: Open the `CRM Analysis.xlsx` file in Microsoft Excel.
+   - **Excel**: Open the `Opportunity Table.xlsx` file in Microsoft Excel.
    - **Power BI**: Open the `CRM Analysis.pbix` file in Power BI Desktop.
-   - **Tableau**: Open the `CRM Management-Tableau Dashboard.twbx` file in Tableau Desktop.
+   - **Tableau**: Open the `Salesforce CRM Opportunity Dashboard.twbx` and `Salesforce Lead Dashboard.twbx` files in Tableau Desktop.
+   - **Presentation**: Open the `crm analytics presentation.pptx` file in PowerPoint or a compatible presentation viewer.
 3. **Review**: Explore the visualizations and analysis provided in the respective tools.
 4. **Feedback**: For any feedback or questions, feel free to open an issue or contact the project maintainer.
 
